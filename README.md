@@ -1,11 +1,13 @@
 # BioInformaticJS
 A JavaScript library for Bioinformatics
 
+This library is still under development
 
 use the following script for the plot to work:
 <script src='https://cdn.plot.ly/plotly-latest.min.js'></script>
+----------------------------------------------------------------------------------------------
 
-Functions:
+Functions made in the library:
 
 1- Upper(seq): Converts the input array to upper case letters.
 
