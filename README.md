@@ -11,7 +11,7 @@ Functions made in the library:
 
 1- Upper(seq): Converts the input array to upper case letters.
 
-2- Validate(seq): Validates the character components of the input array.
+2- Validate(seq): Validates the character components of the input string.
 
 3- CountN(seq): Returns a JSON containing the number of each nucleotide.
 
