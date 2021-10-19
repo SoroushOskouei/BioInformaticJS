@@ -15,7 +15,7 @@ Functions made in the library:
 
 3- CountN(seq): Returns a JSON containing the number of each nucleotide.
 
-4- Transcript(seq): Returning the transcript of the input array.
+4- Transcript(seq): Returning the transcript of the input string.
 
 5- RC(seq): Returns the reverse complement sequence of the input.
 
